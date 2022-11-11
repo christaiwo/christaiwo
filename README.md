@@ -59,13 +59,13 @@
 <a href="https://twitter.com/chriistaiwo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://web.facebook.com/chris.taiwo.ijagbemi.3" target="_blank">
+<a href="https://web.facebook.com/chris.taiwo.ijagbemi.3" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCfg2Xf0iMWvx6psRhPVOVYw" target="_blank">
+<a href="https://www.youtube.com/channel/UCfg2Xf0iMWvx6psRhPVOVYw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taiwo-ijagbemi-a683311b4/?" target="_blank">
+<a href="https://www.linkedin.com/in/taiwo-ijagbemi-a683311b4/?" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
