@@ -70,12 +70,20 @@
 </a>  
 </div>  
   
+  
+ <br/>  
+
+
+## DevCard  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=christaiwo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=christaiwo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<a href="https://app.daily.dev/christaiwo"><img src="https://api.daily.dev/devcards/0301edb63e5f4446b68d4366ede39838.png?r=mg7" width="400" alt="Taiwo Ijagbemi's Dev Card"/></a>
+</div>  
 
   
 
