@@ -1,4 +1,4 @@
-### <div align="center">I'm Christaiwo, a full-time full-stack web developer 👨‍💻 </div>  
+### <div align="center">I'm Christaiwo, a full-stack software developer 👨‍💻 </div>  
   
 
 <br/>  
