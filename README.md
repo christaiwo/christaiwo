@@ -6,7 +6,7 @@
 
 Passionate about software development and creating innovative solutions to real-world problems. Full-stack developer with expertise in Frontend, Backend, and DevOps technologies. Constantly learning and building cool stuff with code. Let's collaborate and make a difference in the tech world!
 
-📫 **Let's connect!** Feel free to reach out for collaboration or just to say hi: [christopherijagbemi@gmailcom ](mailto:christopherijagbemi@gmailcom )
+📫 **Let's connect!** Feel free to reach out for collaboration or just to say hi: [christopherijagbemi@gmail.com ](mailto:christopherijagbemi@gmail.com )
 
 <br/>  
 
